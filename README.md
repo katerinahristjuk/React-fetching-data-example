@@ -1,3 +1,3 @@
-# React-page_components_exercises
+# React-fetching-data-example
 Simple single-page app with React router.
-API from jsonplaceholder.com
+Fetching data from API (jsonplaceholder.com)
